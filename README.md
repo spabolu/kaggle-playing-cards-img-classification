@@ -76,10 +76,10 @@ This project was developed as part of the **DAT 402: ML for Data Science** cours
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
-cd playing-card-classification
-pip install -r requirements.txt
-jupyter notebook project.ipynb
+git clone https://github.com/spabolu/kaggle-playing-cards-img-classification.git
+cd kaggle-playing-cards-img-classification
+pip install -r requirements.txt # need to be pushed
+jupyter notebook project2.ipynb
 ```
 
 ---
