@@ -12,6 +12,10 @@ Classifying objects in images is a classic computer vision challenge. Playing ca
 
 This project has practical applications in areas like automated gaming, casino surveillance, and other systems that need to recognize structured objects.
 
+### Results
+
+<img width="1390" height="767" alt="SCR-20250817-iygq" src="results.png" />
+
 ---
 
 ## Dataset
@@ -67,7 +71,7 @@ Three different supervised learning models were trained and evaluated.
 
 ---
 
-## 📊 Results
+## Results
 
 The performance of the three models was compared based on their accuracy on the test set.
 
@@ -83,7 +87,7 @@ Analysis of the confusion matrices showed that all models struggled most with co
 
 ---
 
-## 📝 Conclusion & Limitations
+## Conclusion & Limitations
 
 ### **Conclusion**
 Our Custom CNN architecture proved to be the most effective solution for this classification task, achieving nearly **80% accuracy**. This highlights the power of custom-built deep learning models for specialized computer vision problems.
@@ -95,7 +99,7 @@ Our Custom CNN architecture proved to be the most effective solution for this cl
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Clone the repository:**
     ```bash
@@ -115,7 +119,7 @@ Our Custom CNN architecture proved to be the most effective solution for this cl
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 * `pandas`
 * `numpy`
 * `matplotlib`
