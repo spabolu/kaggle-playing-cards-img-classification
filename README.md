@@ -14,7 +14,7 @@ This project has practical applications in areas like automated gaming, casino s
 
 ### Results
 
-<img width="1390" height="767" alt="SCR-20250817-iygq" src="results.png" />
+<img width="1390" height="767" alt="models-output" src="results.png" />
 
 ---
 
